@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SheldonRhodes
+- 👀 I’m interested in AR.
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to collaborate on my AR project. We want to use AR for those who visit our live of Christ display as well as our Goliath's spear exhibit. I don't really know anything about how to make this work, I only know I have ideas of how AR could be used. I welcome your help.
+- 📫 How to reach me victory@GoliathsSpear.com
